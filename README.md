@@ -1,8 +1,7 @@
 # 🐼 Pandas na Prática
 
 Repositório criado para registrar meus estudos e práticas com a biblioteca **Pandas**, utilizando **Python** através do vídeos disponíveis do 
-Téo Me Why
-Aqui estão os exercícios, exemplos e práticas desenvolvidos durante meu processo de aprendizagem e revisão dos principais recursos da biblioteca.
+Téo Me Why. Aqui estão os exercícios, exemplos e práticas desenvolvidos durante meu processo de aprendizagem e revisão dos principais recursos da biblioteca.
 
 ## 📚 Conteúdos praticados
 
